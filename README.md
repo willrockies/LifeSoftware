@@ -24,9 +24,8 @@ Repositório referente à Atividade Contínua 05 de D.A.D.
 * Luiz Fellipe Misso
 
 # Time Comercial:
-## Líder: -
+## Líder: Gabriel Santos
 * Lucas Chiavaloni
 * Vanderlei Silva
 * Felipe Maciel
-* Gabriel Santos
 * Rafael Apolinario
